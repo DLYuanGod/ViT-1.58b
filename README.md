@@ -11,4 +11,4 @@ Zhengqing and Rong contributed equally to this work.
 </a> <a href='https://arxiv.org/abs/2406.18051'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>  
 
 ## News
-[Jul.28 2023] Breaking! We release the training base code of our project. There may be some BUGs, please wait for us to fix them.
+[Jul.05 2023] Breaking! We release the training base code of our project. There may be some BUGs, please wait for us to fix them.
